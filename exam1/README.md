@@ -1,8 +1,6 @@
-首先，三个软件已经安装完成，所以先提供快捷方式
-
-![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/86f52e6f-6a4e-4285-a75e-6be09addc6d6)
+首先，三个软件已经安装完成，所以先提供快捷方式    
+![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/86f52e6f-6a4e-4285-a75e-6be09addc6d6)                            
 Anaconda：
-
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/5983f55d-35a4-4a34-9750-b3ce21c943e5)
 Visual studio code：
 
@@ -17,7 +15,7 @@ Anaconda：
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/0785cdb5-a46b-41f4-a159-d3a085ed8a17)
 我用的是腾讯镜像：
 
-![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6826b2c5-71d0-4b4a-8f81-a1feb6fa49db)
+![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6826b2c5-71d0-4b4a-8f81-a1feb6fa49db)                        
 gradle已经安装，可以编译：
 
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/47d34eae-4888-4793-9b20-627b3503e523)
