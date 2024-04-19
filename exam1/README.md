@@ -9,7 +9,8 @@ Visual studio code：
 
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/ec6ca6b5-1840-43c9-9b64-a372f9475c62)
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/676e066a-1b75-4f70-81c9-f6567f3182c4)
-![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/50c0b5ba-020b-48f2-a16c-d91c339f19be)
+已经连接到Anaconda：               
+![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/50c0b5ba-020b-48f2-a16c-d91c339f19be)                               
 Anaconda：
 
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/0785cdb5-a46b-41f4-a159-d3a085ed8a17)
