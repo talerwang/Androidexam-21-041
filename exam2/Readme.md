@@ -1,7 +1,7 @@
 
 # 前言
 
-本次实验将详细说明实验二的具体步骤与实验结果。
+本次实验将详细说明实验二的具体步骤与实验结果，由于我使用的csdn写的md文件，故可能有水印，水印与我群里的qq一致。
 
 
 
@@ -21,7 +21,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/a9790a2ebb75419dbde10c2476ce4122.png)                   
 观察得知：与老师的图片相比，新模块是多一层父级的                       
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/17422288c21b4ca79dfd3005f10e4b95.png)                
-删除NestedScrollView的父层，改为ConstraintLayout即可：                   
+删除父层NestedScrollView，改为ConstraintLayout即可：                   
 
                                              
 
