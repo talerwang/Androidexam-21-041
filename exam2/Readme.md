@@ -43,7 +43,7 @@
 ```
 
 然后增加按键ID并且修改文本内容，更改按键与text的约束，如图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/388f175875a042d1b708d4df26ab6098.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/388f175875a042d1b708d4df26ab6098.png)                                          
 如果出现按键对不齐的情况，将加粗部分的BOTTOM改为TOP或相反即可，例如：app:layout_constraintTop_to**Bottom**Of="@id/textview_first"
 
 
