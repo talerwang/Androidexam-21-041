@@ -130,9 +130,9 @@ fragment_first.xml的整体代码如下：
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-## 3.fragment_second.xml的页面编写
-整体效果与约束如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7723d482e18d4f57b5411261d332a668.png)
+## 3.fragment_second.xml的页面编写                   
+整体效果与约束如下：                          
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7723d482e18d4f57b5411261d332a668.png)                            
 
 
 
