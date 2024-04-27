@@ -13,17 +13,17 @@
 
 # 一、使用步骤
 ## 1.新建一个新的项目
-如图，我的Android studio是阿尔法版本，故只能选择如图所示的模板
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/a605f2ce025f4f1386fded89c6d3431a.png#pic_center)创建完成后，等待gradle的构建：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/baa6430029364c648b9df4837f4014b3.png)
-## 2.更改fragment_first.xml的界面
-构建完成，此时可以看到模块与老师的不同：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/a9790a2ebb75419dbde10c2476ce4122.png)
-观察得知：与老师的图片相比，新模块是多一层父级的
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/17422288c21b4ca79dfd3005f10e4b95.png)
-删除NestedScrollView的父层，改为ConstraintLayout即可：
+如图，我的Android studio是阿尔法版本，故只能选择如图所示的模板         
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/a605f2ce025f4f1386fded89c6d3431a.png#pic_center)创建完成后，等待gradle的构建：                 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/baa6430029364c648b9df4837f4014b3.png)                    
+## 2.更改fragment_first.xml的界面                      
+构建完成，此时可以看到模块与老师的不同：                       
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/a9790a2ebb75419dbde10c2476ce4122.png)                   
+观察得知：与老师的图片相比，新模块是多一层父级的                       
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/17422288c21b4ca79dfd3005f10e4b95.png)                
+删除NestedScrollView的父层，改为ConstraintLayout即可：                   
 
-
+                                             
 
 >代码如下：
 
