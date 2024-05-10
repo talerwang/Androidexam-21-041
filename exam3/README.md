@@ -101,8 +101,8 @@ override fun onRequestPermissionsResult(
     }
 ```
 运行应用，此时弹出请求权限窗口：
-![请添加图片描述](https://img-blog.csdnimg.cn/direct/ca205f8b50144a77a105e059c349e482.jpeg#pic_left =180x400 )
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/1e67c6be19dc4c61863b097586d81b3c.jpeg#pic_left =180x400)
+![请添加图片描述](https://img-blog.csdnimg.cn/direct/ca205f8b50144a77a105e059c349e482.jpeg)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/1e67c6be19dc4c61863b097586d81b3c.jpeg)
 
 ---
 # 四.相机预览
@@ -143,7 +143,7 @@ private fun startCamera() {
 }
 ```
 如图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/1ca29df043334d9a99527cc467eba27c.jpeg#pic_left =180x400)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/1ca29df043334d9a99527cc467eba27c.jpeg)
 
 ---
 # 五.拍照实现：
@@ -231,7 +231,7 @@ private fun startCamera() {
 }
 ```
 拍好的效果如图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0ed6499e75634609bb681a633ebe2c2a.jpeg#pic_left =180x400)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0ed6499e75634609bb681a633ebe2c2a.jpeg)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/406fb5be43b64f50bd5173a25fdc37d8.png)
 
@@ -318,11 +318,16 @@ cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
 
 效果如图：
 启动：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7e9e4ca046834c319aea1065c4fd60ed.jpeg#pic_left =180x400)
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7e9e4ca046834c319aea1065c4fd60ed.jpeg)
 结束：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0a9aa1997b64453f8f829aefa1a18b47.jpeg#pic_left =180x400)
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0a9aa1997b64453f8f829aefa1a18b47.jpeg)
 拍摄的视频：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dbd827eb4c3a4c72846329e19dc6764c.jpeg#pic_left =180x400)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dbd827eb4c3a4c72846329e19dc6764c.jpeg)
 ---
 # 总结
 
