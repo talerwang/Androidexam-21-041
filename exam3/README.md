@@ -318,11 +318,15 @@ cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
 
 效果如图：
 启动：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7e9e4ca046834c319aea1065c4fd60ed.jpeg#pic_left =180x400)
 结束：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0a9aa1997b64453f8f829aefa1a18b47.jpeg#pic_left =180x400)
 拍摄的视频：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dbd827eb4c3a4c72846329e19dc6764c.jpeg#pic_left =180x400)
+
 ---
 # 总结
 
