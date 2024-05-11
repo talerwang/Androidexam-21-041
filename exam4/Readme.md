@@ -203,7 +203,9 @@ fig.tight_layout()
  ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6801e0f5-d44b-4e5b-88e3-14771dbb4bb8)         
 
 
-上网查询后，得知是jupyter的版本太高，降级后可用：![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/acfe314b-0dd9-493b-a7fa-4b883c48c81c)     
+上网查询后，得知是jupyter的版本太高，降级后可用：        
+![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/92e13a2a-eeea-4692-94fd-7d6a9923239d)
+  
 
 
 
