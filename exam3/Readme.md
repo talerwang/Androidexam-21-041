@@ -25,7 +25,7 @@ df.head()
 ```python
 df.tail()
 ```
-![png](Readme_files/329761748-ec3382c3-14c5-4696-9948-1a573f334712.png)
+![png](Readme_files/329761755-1e0fdf0d-9547-49d4-83f9-af0cb2aae6f0.png)
 
 
 
