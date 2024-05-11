@@ -199,14 +199,15 @@ fig.tight_layout()
 ![png](Readme_files/Readme_16_0.png)
     
 
-拓展包安装期间我遇到了问题：![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6801e0f5-d44b-4e5b-88e3-14771dbb4bb8)         
+拓展包安装期间我遇到了问题：                
+ ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6801e0f5-d44b-4e5b-88e3-14771dbb4bb8)         
 
 
 上网查询后，得知是jupyter的版本太高，降级后可用：![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/acfe314b-0dd9-493b-a7fa-4b883c48c81c)     
 
 
 
-拓展包安装完毕：
+拓展包安装完毕：                
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/d92065dc-48f2-42d0-b696-9597c851af2b)
 
 
