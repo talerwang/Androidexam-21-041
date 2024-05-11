@@ -207,5 +207,3 @@ fig.tight_layout()
 
 ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/19946e0b-278e-4bff-9727-d6477650d93d)
 
-
->>>>>>> a26a5e5ad5ce8d6e9dd077bb3c59413437a41111
