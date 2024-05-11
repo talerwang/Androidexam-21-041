@@ -199,7 +199,8 @@ fig.tight_layout()
 ![png](Readme_files/Readme_16_0.png)
     
 
-拓展包安装期间我遇到了问题：                
+虽然vscode可以自动补全，但是为了报告好看点，还是安装一下拓展包
+但是拓展包安装期间我遇到了问题：                
  ![image](https://github.com/talerwang/Androidexam-21-041/assets/155062674/6801e0f5-d44b-4e5b-88e3-14771dbb4bb8)         
 
 
