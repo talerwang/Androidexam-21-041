@@ -19,7 +19,7 @@
     buildFeatures {
         viewBinding=true
     }
-}
+
 
 dependencies {
     implementation(libs.androidx.core.ktx)
@@ -323,17 +323,6 @@ cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
 效果如图：
 启动：
 
-<<<<<<< HEAD
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7e9e4ca046834c319aea1065c4fd60ed.jpeg)
-结束：
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0a9aa1997b64453f8f829aefa1a18b47.jpeg)
-拍摄的视频：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dbd827eb4c3a4c72846329e19dc6764c.jpeg)
-=======
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/7e9e4ca046834c319aea1065c4fd60ed.jpeg#pic_left)
 
 
@@ -347,7 +336,7 @@ cameraProvider.bindToLifecycle(this, cameraSelector, preview, videoCapture)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dbd827eb4c3a4c72846329e19dc6764c.jpeg#pic_left)
 
->>>>>>> ffda7ec0ad6e76c8c8b308ac19cd9226cde50fd2
+
 ---
 # 总结
 
