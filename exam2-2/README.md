@@ -233,9 +233,7 @@ private fun startCamera() {
 拍好的效果如图：
 <<<<<<< HEAD
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0ed6499e75634609bb681a633ebe2c2a.jpeg)
-=======
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/0ed6499e75634609bb681a633ebe2c2a.jpeg#pic_left)
->>>>>>> ffda7ec0ad6e76c8c8b308ac19cd9226cde50fd2
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/406fb5be43b64f50bd5173a25fdc37d8.png)
 
