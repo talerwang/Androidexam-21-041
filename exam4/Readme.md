@@ -5,18 +5,25 @@
 ---
 # 一、编译start项目
 由于版本jdk过高，会提示版本不匹配，这里我改成了jdk1.8
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/183707841c48462cb400485804be1014.png)
-然后会提示sdk版本不匹配，这里我改成了29.0
 
+        
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/183707841c48462cb400485804be1014.png)
+
+            
+然后会提示sdk版本不匹配，这里我改成了29.0
+              
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/e438e525ddf34b2c92a83a6437e34de6.png)
 可以编译了：
+                   
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/f866894b0d55437d8b005663105a1dfc.png)
-编译完成：![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/06f7f2f4d197431593fef1946828a13d.png)
+         
+编译完成：         
+             ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/06f7f2f4d197431593fef1946828a13d.png)
 
 
 
 # 二、检查代码中的TODO项
-已配置好
+已配置好                           
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/5aec9596e7d04265a8c0ef7e8a7bf3a6.png)
 
 
@@ -64,7 +71,7 @@
             imageProxy.close()
         }
 ```
-运行结果：
+运行结果：                            
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/04c4309aa5474f7b942c6b7d649cb49c.jpeg)
 
 # 总结
