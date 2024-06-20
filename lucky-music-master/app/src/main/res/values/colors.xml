@@ -42,6 +42,10 @@
     <color name="lm_background">@color/lm_background_while</color>
     <color name="lm_font">@color/grey31</color>
     <color name="lm_white_pressed">#99FFFFFF</color>
-    <color name="lm_dialog_bg">#77777777</color>
+    <color name="lm_dialog_bg">#888888</color>
+    <color name="background_color">#888888</color>
+    <color name="text_color">#000000</color>
+    <color name="hint_color">#888888</color>
+
 
 </resources>
