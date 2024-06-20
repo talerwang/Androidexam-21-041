@@ -59,17 +59,40 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginBottom="8dp" />
 
+    <Button
+        android:id="@+id/generateSongButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="49dp"
+
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginBottom="47dp"
+        android:background="@drawable/rounded_button"
+        android:text="生成歌曲"
+        android:textColor="@color/text_color"
+        app:layout_constraintBottom_toTopOf="@+id/lyricTextView"
+        app:layout_constraintEnd_toStartOf="@+id/importButton"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lyricEditText"
+        app:layout_constraintVertical_bias="0.0" />
+
     <TextView
         android:id="@+id/lyricTextView"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:scrollbars="vertical"
-        android:padding="12dp"
         android:background="@drawable/rounded_textview"
+        android:padding="12dp"
+        android:scrollbars="vertical"
         android:textColor="@color/text_color"
-        app:layout_constraintTop_toBottomOf="@+id/exportButton"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/exportButton"
+        app:layout_constraintVertical_bias="1.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
